@@ -1,4 +1,4 @@
-### Weather Dashboard
+# Weather Dashboard
 
 ## Lisence Badge
 ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
